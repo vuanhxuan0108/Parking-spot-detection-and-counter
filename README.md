@@ -100,18 +100,7 @@ python main.py
 ## 📷 Demo (giả sử)
 
 ```
-Chỗ trống: 53 / 85
+Chỗ trống: 53 / 396
 ```
 
 ---
-
-## 📝 Tác giả
-
-- **Vũ Anh Xuân – 2025**  
-- Dự án thực hiện trong khuôn khổ học phần hoặc đồ án chuyên ngành.
-
----
-
-## 📄 License
-
-MIT License
